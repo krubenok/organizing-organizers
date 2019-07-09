@@ -1,0 +1,24 @@
+{
+  "name": "organizing-organizers",
+  "version": "1.0.0",
+  "description": "A talk I am presenting for MLH's Hackcon VII in August 2019",
+  "scripts": {
+    "start": "mdx-deck slides.mdx",
+    "build": "mdx-deck build slides.mdx",
+    "help": "mdx-deck"
+  },
+  "dependencies": {
+    "mdx-deck": "^2.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krubenok/organizing-organizers.git"
+  },
+  "author": "Kyle Rubenok",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/krubenok/organizing-organizers/issues"
+  },
+  "homepage": "https://github.com/krubenok/organizing-organizers#readme"
+}
