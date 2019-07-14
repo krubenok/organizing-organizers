@@ -5,7 +5,7 @@ _A talk I am presenting for MLH's Hackcon VII in August 2019._
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b190dc20-91fe-433e-b5b8-b8d84a1cfd39/deploy-status)](https://app.netlify.com/sites/organizing-organizers/deploys)
 
-You can view the current `master` branch of this deck [at this link](https://organizing-organisers.rubenok.ca)
+You can view the current `master` branch of this deck [at this link](https://organizing-organizers.rubenok.ca)
 
 ## Instructions
 
