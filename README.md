@@ -12,4 +12,6 @@ To work on this project, you'll need to install `mdx-deck`. You can do this by r
 Run `npm start`. It will open a webserver at [http://localhost:8080](http://localhost:8080).
 From here, you may want to enable _presenter view_. Press `Option p` to enable this.
 
+<!-- TODO: Add a PDF Export option -->
+
 *Most of my content is in my notes in order to keep the words on the slides to a minimum.*
