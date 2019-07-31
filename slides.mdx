@@ -1,8 +1,9 @@
 import { future } from '@mdx-deck/themes'
-
+import { Notes, Image, Head, Split, Appear, Invert } from 'mdx-deck'
+import sponsorship from './images/sponsorship-home.png'
+import agreement from './images/mchacks-6-agreement.png'
 export const themes = [ future ]	
 
-import { Notes, Image, Head, Split, Appear } from 'mdx-deck'
 
 <!-- TODO: Add social media embed images and a github cover photo. -->
 <!-- TODO: Double spacing for notes? -->
@@ -148,12 +149,17 @@ If we consider the entire lifecycle of the project before we begin and start to 
 
 ---
 
-## Timeline.
+## Timelines
 
 ---
 
-[![A Timeline of tasks leading up to the event related to sponsorship](images/timeline.png)](https://notion.so)
+<Invert>
 
+<img src={agreement} />
+
+</Invert>
+
+<!-- [![Screenshot McHacks 6 Sponsorship Agreement Tempalte](sponsorship)](https://notion.so) -->
 
 <Notes>
 
@@ -165,7 +171,7 @@ In the week of your event the last thing you want to be doing is scrambling to g
 
 ---
 
-## A System to Capture this Information
+### A System to Capture this Information
 
 <Notes>
 
@@ -189,7 +195,10 @@ It doesn't matter so much as long as it's transparent and easily discoverable fo
 
 <!-- TODO: Fill in Notion link to sanitized Sponsorship homepage. -->
 <!-- TODO: Figure out how to properly host images -->
-[![Screenshot of Notion.so showing McHacks 6 Sponsorship Homepage](images/sponsorship-home.png)](https://notion.so)
+<img src={sponsorship} />
+
+
+<!-- [![Screenshot of Notion.so showing McHacks 6 Sponsorship Homepage](./images/sponsorship-home.png)](https://notion.so) -->
 
 <Notes>
 
