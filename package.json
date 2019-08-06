@@ -8,7 +8,7 @@
     "help": "mdx-deck"
   },
   "dependencies": {
-    "mdx-deck": "^3.0.8"
+    "mdx-deck": "^3.0.9"
   },
   "devDependencies": {},
   "repository": {
